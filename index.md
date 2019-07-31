@@ -3,6 +3,7 @@ title: Science and Technology Research Scholars (STARS)
 subtitle: A summer-research camp and year-long mentoring program
 layout: page
 show_sidebar: false
+name: Home
 ---
 
 # Welcome to STARS
