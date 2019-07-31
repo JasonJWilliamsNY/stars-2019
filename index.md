@@ -11,10 +11,18 @@ name: Home
 Test
 
 
-# Agenda
+# Agenda 2019
 
 |Day|Time|Location|Activity|Links/Notes|
 |---|----|--------|--------|-----------|
-|test|test|test|test|[link](link)|
-|test|test|test|test|[link](link)|
-|test|test|test|test|[link](link)|
+|Saturday 8/17|<ul><li>PM</ul>||||
+|Monday 8/19|<ul><li>AM<li>PM</ul>||||
+|Tuesday 8/19|<ul><li>AM<li>PM</ul>||||
+|Wednesday 8/19|<ul><li>AM<li>PM</ul>||||
+|Thursday 8/19|<ul><li>AM<li>PM</ul>||||
+|Friday 8/19|<ul><li>AM<li>PM</ul>||||
+|Monday 8/19|<ul><li>AM<li>PM</ul>||||
+|Tuesday 8/19|<ul><li>AM<li>PM</ul>||||
+|Wednesday 8/19|<ul><li>AM<li>PM</ul>||||
+|Thursday 8/19|<ul><li>AM<li>PM</ul>||||
+|Friday 8/19|<ul><li>AM<li>PM</ul>||||
