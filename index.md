@@ -1,6 +1,6 @@
 ---
 title: Science and Technology Research Scholars (STARS)
-subtitle: A summer-research camp and year-long mentoring program
+subtitle: A DNA Learning Center summer-research camp mentoring program
 layout: page
 show_sidebar: false
 name: Home

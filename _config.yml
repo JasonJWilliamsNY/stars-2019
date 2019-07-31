@@ -1,2 +1,10 @@
 #theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
+
+
+# Site Settings
+title: STARS
+tagline: A DNA Learning Center summer-research camp mentoring program
+email: williams@cshl.edu
+description: >
+permalink: pretty
