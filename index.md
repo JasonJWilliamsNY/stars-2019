@@ -227,7 +227,12 @@ camp.
 # Resources
 
 **Important Links**
-[Cold Spring Harbor Laboratory DNA Learning Center](https://www.dnalc.org/)
+- [Cold Spring Harbor Laboratory DNA Learning Center](https://www.dnalc.org/)
+- [CSHL Main Campus Map](https://www.cshl.edu/wp-content/uploads/2017/07/CampusMap_updated.pdf)
+  - **Note**: Important week-one camp locations include
+  - Delbrück Lab/Conference Room (Building 17 on map)
+  - Hershey Conference Room (Building 14 on map)
+  - Grace Auditorium (Stony Brook Drop-off/pick up: Building 12 on map)
 
 **Camp Addresses and Contact**
 - Emergency Number: DNALC Main Office: (516) 367-5170
@@ -235,4 +240,4 @@ camp.
 - Week Two - DNAl Learning Center: 334 Main St., Cold Spring Harbor, NY, 11724
 
 **Camp Questions**
-Please contact Jason Williams [email](mailto:Williams@cshl.edu)
+Please contact Jason Williams: [email](mailto:Williams@cshl.edu)
