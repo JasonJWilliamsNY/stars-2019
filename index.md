@@ -12,16 +12,14 @@ Test
 
 
 # Agenda 2019
-
-
-<table>
-  <th>Day</th>
+<link rel="stylesheet" href="https://unpkg.com/markdown-core@1.1.0/dist/index.bundle.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/mermaid/6.0.0/mermaid.css"><body><article class="markdown-body"><table>
+  <tbody><tr><th>Day</th>
   <th>Time</th>
   <th>Location</th>
   <th>Instructors</th>
   <th>Activity</th>
   <th>Links/notes</th>
- <tr>
+ </tr><tr>
   <th rowspan="2">Saturday 8/17</th>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
@@ -41,14 +39,14 @@ Test
    <td>AM</td>
    <td>Delbrück Lab (Main Campus)</td>
    <td>Williams, Johnson</td>
-   <td><ul><li>Orientation, intros, safety<li>Why make choices early?<li><b>Lab</b>: Introduction to DNA - including introduction to laboratory equipment<li><b>Lab</b>: DNA Extraction and Restriction Enzymes</ul></td>
+   <td><ul><li>Orientation, intros, safety</li><li>Why make choices early?</li><li><b>Lab</b>: Introduction to DNA - including introduction to laboratory equipment</li><li><b>Lab</b>: DNA Extraction and Restriction Enzymes</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
    <td>PM</td>
-   <td><ul><li>Delbrück Lab (Main Campus)<li>Hershey East Conf. (Main Campus)</ul></td>
+   <td><ul><li>Delbrück Lab (Main Campus)</li><li>Hershey East Conf. (Main Campus)</li></ul></td>
    <td>Williams, Lichtman</td>
-   <td><ul><li><b>Lab (cont'd)</b>: DNA Extraction and Restriction Enzymes<li><b>Exercise</b>: Scientific method - Formulating scientific questions</ul></td>
+   <td><ul><li><b>Lab (cont'd)</b>: DNA Extraction and Restriction Enzymes</li><li><b>Exercise</b>: Scientific method - Formulating scientific questions</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -56,14 +54,14 @@ Test
    <td>AM</td>
    <td>Delbrück Lab (Main Campus)</td>
    <td>Williams, Johnson</td>
-   <td><ul><li><b>Lab</b>: Bacterial transformation</ul></td>
+   <td><ul><li><b>Lab</b>: Bacterial transformation</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
    <td>PM</td>
    <td>Hearshey East Conf. (Main Campus)</td>
    <td>Williams</td>
-   <td><ul><li>Scientific method - What is a hypothesis?<li><b>Exercise</b>: Literature Searches<li>Scientific method - Readng a scientific paper</ul></td>
+   <td><ul><li>Scientific method - What is a hypothesis?</li><li><b>Exercise</b>: Literature Searches</li><li>Scientific method - Readng a scientific paper</li></ul></td>
    <td>Link</td>
    </tr>
  <tr>
@@ -71,7 +69,7 @@ Test
    <td>AM</td>
    <td>Delbrück Lab (Main Campus)</td>
    <td>Williams, Johnson</td>
-   <td><ul><li><b>Lab</b>: DNA Barcoding Laboratory I</ul></td>
+   <td><ul><li><b>Lab</b>: DNA Barcoding Laboratory I</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -79,8 +77,8 @@ Test
    <td>Hearshey East Conf. (Main Campus)</td>
    <td>Williams</td>
    <td><ul><li><b>Lunch     
-   Speaker</b>: Lloyd Trotman<li><b>Lab (cont'd)</b>: DNA Barcoding Laboratory I<li>Tour
-   of CSHL<li>Graduate Student Talk</ul></td>
+   Speaker</b>: Lloyd Trotman</li><li><b>Lab (cont'd)</b>: DNA Barcoding Laboratory I</li><li>Tour
+   of CSHL</li><li>Graduate Student Talk</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -104,7 +102,7 @@ Test
    <td>Delbrück Lab (Main Campus)</td>
    <td>Williams, Johnson</td>
    <td><ul><b>Lab</b>: DNA Barcoding Laboratory II<li><b>Lunch     
-   Speaker</b>: Alea Mills</ul></td>
+   Speaker</b>: Alea Mills</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -112,7 +110,7 @@ Test
    <td>Hearshey East Conf. (Main Campus)</td>
    <td>Williams, Lichtman</td>
    <td><ul><b>Lab</b>: DNA Barcoding Laboratory II<li><b>Exercise</b>: Scientific method
-   - Writing a research proposal</ul></td>
+   - Writing a research proposal</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -121,7 +119,7 @@ Test
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams, Johnson</td>
    <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-   Bioinformatics</ul></td>
+   Bioinformatics</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -129,7 +127,7 @@ Test
    <td>Hearshey East Conf. (Main Campus)</td>
    <td>Williams</td>
    <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-   Python<li>Career and learning skills discussion: Finding help</ul>
+   Python</li><li>Career and learning skills discussion: Finding help</li></ul>
    </td>
    <td>Link</td>
  </tr>
@@ -139,7 +137,7 @@ Test
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
    <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-   Python</ul></td>
+   Python</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
@@ -148,7 +146,7 @@ Test
    <td>Williams</td>
    <td><ul><b>Computer Lab</b>: Biocoding - Intro to
    Python<li>Career and learning skills discussion: Summer Research
-   Resources</ul>
+   Resources</li></ul>
    </td>
    <td>Link</td>
    </tr>
@@ -158,8 +156,8 @@ Test
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
    <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-   Python<li><b>Lunch     
-   Speaker</b>: Camila Dos Santos</ul>
+   Python</li><li><b>Lunch     
+   Speaker</b>: Camila Dos Santos</li></ul>
    </td>
    <td>Link</td>
  </tr>
@@ -168,7 +166,7 @@ Test
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
       <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-   Python<li>Final Project Planning</ul>
+   Python</li><li>Final Project Planning</li></ul>
    </td>
    <td>Link</td>
  </tr>
@@ -178,14 +176,14 @@ Test
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
    <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-   Python<li>Final Project Planning</ul>
-   <td>Link</td>
+   Python</li><li>Final Project Planning</li></ul>
+   </td><td>Link</td>
  </tr>
  <tr>
    <td>PM</td>
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
-   <td><ul><li>Team Project Work</ul></td>
+   <td><ul><li>Team Project Work</li></ul></td>
    <td>Link</td>
  </tr>
   <tr>
@@ -193,14 +191,14 @@ Test
    <td>AM</td>
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
-   <td><ul><li>Team Project Work</ul></td>
+   <td><ul><li>Team Project Work</li></ul></td>
    <td>Link</td>
  </tr>
  <tr>
    <td>PM</td>
    <td> Computer Lab (DNALC Campus)</td>
    <td>Williams</td>
-   <td><ul><li>Team Project Work<li>Student Presentations</ul></td>
+   <td><ul><li>Team Project Work</li><li>Student Presentations</li></ul></td>
    <td>Link</td>
  </tr>
-</table>
+</tbody></table>
