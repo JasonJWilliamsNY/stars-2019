@@ -12,7 +12,7 @@ Test
 
 
 # Agenda 2019
-<link rel="stylesheet" href="https://unpkg.com/markdown-core@1.1.0/dist/index.bundle.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/mermaid/6.0.0/mermaid.css"><body><article class="markdown-body"><table>
+<link rel="stylesheet" href="https://unpkg.com/markdown-core@1.1.0/dist/index.bundle.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/mermaid/6.0.0/mermaid.css"><table>
   <tbody><tr><th>Day</th>
   <th>Time</th>
   <th>Location</th>
