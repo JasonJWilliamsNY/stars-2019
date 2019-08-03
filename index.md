@@ -29,7 +29,7 @@ college.
 This general agenda lays out locations and activities over this two-week
 camp.
 
-
+<div style="overflow-x:auto;">
   <table class="blueTable">
     <tbody>
     <tr><th  bgcolor="#098DAF" align="center">Day</th>
@@ -222,7 +222,7 @@ camp.
 
   </tbody>
   </table>
-
+</div>
 
 # Resources
 
