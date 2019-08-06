@@ -57,14 +57,14 @@ camp.
     <th rowspan="2" bgcolor="#098DAF" vertical-align:bottom>Monday 8/19</th>
      <td>AM</td>
      <td>Delbrück Lab (Main Campus)</td>
-     <td>Williams, Johnson D</td>
+     <td>Williams, Carter, Johnson D</td>
      <td><ul><li>Orientation, intros, safety</li><li>Why make choices early?</li><li><b>Lab</b>: Introduction to DNA - including introduction to laboratory equipment</li><li><b>Lab</b>: DNA Extraction and Restriction Enzymes</li></ul></td>
      <td>Link</td>
    </tr>
    <tr>
      <td>PM</td>
      <td><ul><li>Delbrück Lab (Main Campus)</li><li>Hershey East Conf. (Main Campus)</li></ul></td>
-     <td>Williams, Lichtman</td>
+     <td>Williams, Carter, Lichtman</td>
      <td><ul><li><b>Lab (cont'd)</b>: DNA Extraction and Restriction Enzymes</li><li><b>Exercise</b>: Scientific method - Formulating scientific questions</li></ul></td>
      <td>Link</td>
    </tr>
@@ -72,29 +72,29 @@ camp.
     <th rowspan="2" bgcolor="#098DAF">Tuesday 8/20</th>
      <td>AM</td>
      <td>Delbrück Lab (Main Campus)</td>
-     <td>Williams, Johnson D</td>
+     <td>Williams, Carter, Johnson D</td>
      <td><ul><li><b>Lab</b>: Bacterial transformation</li></ul></td>
      <td>Link</td>
    </tr>
    <tr>
      <td>PM</td>
      <td>Hershey East Conf. (Main Campus)</td>
-     <td>Williams</td>
-     <td><ul><li>Scientific method - What is a hypothesis?</li><li><b>Exercise</b>: Literature Searches</li><li>Scientific method - Readng a scientific paper</li></ul></td>
+     <td>Williams, Carter</td>
+     <td><ul><li>Scientific method - What is a hypothesis?</li><li><b>Exercise</b>: Literature Searches</li><li>Scientific method - Reading a scientific paper</li></ul></td>
      <td>Link</td>
      </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Wednesday 8/21</th>
      <td>AM</td>
      <td>Delbrück Lab (Main Campus)</td>
-     <td>Williams, Johnson D</td>
+     <td>Williams, Carter, Johnson D</td>
      <td><ul><li><b>Lab</b>: DNA Barcoding Laboratory I</li></ul></td>
      <td>Link</td>
    </tr>
    <tr>
      <td>PM</td>
      <td>Hershey East Conf. (Main Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li><b>Lunch     
      Speaker</b>: Lloyd Trotman</li><li><b>Lab (cont'd)</b>: DNA Barcoding Laboratory I</li><li>Tour
      of CSHL</li><li>Graduate Student Talk</li></ul></td>
@@ -103,16 +103,16 @@ camp.
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Thursday 8/22</th>
      <td>AM</td>
-     <td>Stony Brook Feild Trip <b>(9AM Pickup Grace Auditorium)</b></td>
+     <td>Stony Brook field Trip <b>(9AM Pickup Grace Auditorium)</b></td>
      <td>Williams</td>
-     <td><ul><b>Stony Brook Feild Trip</b></ul></td>
+     <td><ul><b>Stony Brook Field Trip</b></ul></td>
      <td>Link</td>
    </tr>
    <tr>
      <td>PM</td>
-     <td>Stony Brook Feild Trip <b>(6PM Arrive at Grace Auditorium for parent pickup)</b></td>
+     <td>Stony Brook Field Trip <b>(6PM Arrive at Grace Auditorium for parent pickup)</b></td>
      <td>Williams</td>
-     <td><ul><b>Stony Brook Feild Trip</b></ul></td>
+     <td><ul><b>Stony Brook field Trip</b></ul></td>
      <td>Link</td>
    </tr>
    <tr>
@@ -126,7 +126,7 @@ camp.
    <tr>
      <td>PM</td>
      <td>Hershey East Conf. (Main Campus)</td>
-     <td>Williams, Lichtman</td>
+     <td>Williams,  Carter,  Lichtman</td>
      <td><ul><b>Lab</b>: DNA Barcoding Laboratory II<li><b>Exercise</b>: Scientific method
      - Writing a research proposal</li></ul></td>
      <td>Link</td>
@@ -153,7 +153,7 @@ camp.
     <th rowspan="2" bgcolor="#098DAF">Tuesday 8/27</th>
      <td>AM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li></ul></td>
      <td>Link</td>
@@ -161,7 +161,7 @@ camp.
    <tr>
      <td>PM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><b>Computer Lab</b>: Biocoding - Intro to
      Python<li>Career and learning skills discussion: Summer Research
      Resources</li></ul>
@@ -172,7 +172,7 @@ camp.
     <th rowspan="2" bgcolor="#098DAF">Wednesday 8/28</th>
      <td>AM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li><b>Lunch     
      Speaker</b>: Camila Dos Santos</li></ul>
@@ -182,7 +182,7 @@ camp.
    <tr>
      <td>PM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li>Final Project Planning</li></ul>
      </td>
@@ -192,7 +192,7 @@ camp.
     <th rowspan="2" bgcolor="#098DAF">Thursday 8/29</th>
      <td>AM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li>Final Project Planning</li></ul>
      </td><td>Link</td>
@@ -200,7 +200,7 @@ camp.
    <tr>
      <td>PM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li>Team Project Work</li></ul></td>
      <td>Link</td>
    </tr>
@@ -208,14 +208,14 @@ camp.
     <th rowspan="2" bgcolor="#098DAF">Friday 8/30</th>
      <td>AM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li>Team Project Work</li></ul></td>
      <td>Link</td>
    </tr>
    <tr>
      <td>PM</td>
      <td> Computer Lab (DNALC Campus)</td>
-     <td>Williams</td>
+     <td>Williams, Carter</td>
      <td><ul><li>Team Project Work</li><li>Student Presentations</li></ul></td>
      <td>Link</td>
    </tr>
