@@ -104,14 +104,14 @@ camp.
     <th rowspan="2" bgcolor="#098DAF">Thursday 8/22</th>
      <td>AM</td>
      <td>Stony Brook field Trip <b>(9AM Pickup Grace Auditorium)</b></td>
-     <td>Williams</td>
+     <td>Williams, (Carter at SBU)</td>
      <td><ul><b>Stony Brook Field Trip</b></ul></td>
      <td>Link</td>
    </tr>
    <tr>
      <td>PM</td>
      <td>Stony Brook Field Trip <b>(6PM Arrive at Grace Auditorium for parent pickup)</b></td>
-     <td>Williams</td>
+     <td>Williams, (Carter at SBU)</td>
      <td><ul><b>Stony Brook field Trip</b></ul></td>
      <td>Link</td>
    </tr>
@@ -231,9 +231,10 @@ camp.
 - [Cold Spring Harbor Laboratory DNA Learning Center](https://www.dnalc.org/)
 - [CSHL Main Campus Map](https://www.cshl.edu/wp-content/uploads/2017/07/CampusMap_updated.pdf)
   - **Note**: Important week-one camp locations include
-  - Delbrück Lab/Conference Room (Building 17 on map)
-  - Hershey Conference Room (Building 14 on map)
-  - Grace Auditorium (Stony Brook Drop-off/pick up: Building 12 on map)
+  - Grace Auditorium: AM and PM pickup during week one (Building 12 on map)
+  - Delbrück: Lab/Conference Room (Building 17 on map)
+  - Hershey: Conference Room (Building 14 on map)
+
 
 **Camp Addresses and Contact**
 
