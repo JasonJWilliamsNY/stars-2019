@@ -240,7 +240,7 @@ camp.
 
 - Emergency Number: DNALC Main Office: (516) 367-5170
 - Week One - CSHL Main Campus: 1 Bungtown Rd, Cold Spring Harbor, NY, 11724
-- Week Two - DNAl Learning Center: 334 Main St., Cold Spring Harbor, NY, 11724
+- Week Two - DNA Learning Center: 334 Main St., Cold Spring Harbor, NY, 11724
 
 **Camp Questions**
 
