@@ -80,7 +80,7 @@ camp.
      <td>PM</td>
      <td>Hershey East Conf. (Main Campus)</td>
      <td>Williams, Carter</td>
-     <td><ul><li>Scientific method - What is a hypothesis?</li><li><b>Exercise</b>: Literature Searches</li><li>Scientific method - Reading a scientific paper</li></ul></td>
+     <td><ul><li>Lunch with DIAS graduate students</li><li>Scientific method - What is a hypothesis?</li><li><b>Exercise</b>: Literature Searches</li><li>Scientific method - Reading a scientific paper</li></ul></td>
      <td>Link</td>
      </tr>
    <tr>
@@ -95,7 +95,7 @@ camp.
      <td>PM</td>
      <td>Hershey East Conf. (Main Campus)</td>
      <td>Williams, Carter</td>
-     <td><ul><li><b>Lunch     
+     <td><ul><li><b>Lunch
      Speaker</b>: Lloyd Trotman</li><li><b>Lab (cont'd)</b>: DNA Barcoding Laboratory I</li><li>Tour
      of CSHL</li><li>Graduate Student Talk</li></ul></td>
      <td>Link</td>
@@ -174,7 +174,7 @@ camp.
      <td> Computer Lab (DNALC Campus)</td>
      <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
-     Python</li><li><b>Lunch     
+     Python</li><li><b>Lunch
      Speaker</b>: Camila Dos Santos</li></ul>
      </td>
      <td>Link</td>
