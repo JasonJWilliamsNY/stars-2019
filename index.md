@@ -63,7 +63,7 @@ camp.
    </tr>
    <tr>
      <td>PM</td>
-     <td><ul><li>Delbrück Lab (Main Campus)</li><li>Hershey East Conf. (Main Campus)</li></ul></td>
+     <td><ul><li>Delbrück Lab (Main Campus)</li></ul></td>
      <td>Williams, Carter, Lichtman</td>
      <td><ul><li><b>Lab (cont'd)</b>: DNA Extraction and Restriction Enzymes</li><li><b>Exercise</b>: Scientific method - Formulating scientific questions</li></ul></td>
      <td>Link</td>
@@ -125,7 +125,7 @@ camp.
    </tr>
    <tr>
      <td>PM</td>
-     <td>Hershey East Conf. (Main Campus)</td>
+     <td>Delbrück Lab (Main Campus)</td>
      <td>Williams,  Carter,  Lichtman</td>
      <td><ul><b>Lab</b>: DNA Barcoding Laboratory II<li><b>Exercise</b>: Scientific method
      - Writing a research proposal</li></ul></td>
@@ -142,7 +142,7 @@ camp.
    </tr>
    <tr>
      <td>PM</td>
-     <td>Hershey East Conf. (Main Campus)</td>
+     <td>Computer Lab</td>
      <td>Williams</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li>Career and learning skills discussion: Finding help</li></ul>
@@ -228,10 +228,12 @@ camp.
 
 **Important Links**
 
+   **See more details and saftey reminders**: [2019 Camp Reminders](/camp-reminders/)
+
 - [Cold Spring Harbor Laboratory DNA Learning Center](https://www.dnalc.org/)
 - [CSHL Main Campus Map](https://www.cshl.edu/wp-content/uploads/2017/07/CampusMap_updated.pdf)
   - **Note**: Important week-one camp locations include
-  - Grace Auditorium: AM and PM pickup during week one (Building 12 on map)
+  - Bush Lecuture Hall: AM and PM pickup during week one (Building 12 on map)
   - Delbrück: Lab/Conference Room (Building 17 on map)
   - Hershey: Conference Room (Building 14 on map)
 
