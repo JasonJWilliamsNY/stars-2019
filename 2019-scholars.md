@@ -20,7 +20,6 @@ show_sidebar: false
 |Lidia Flores|South Huntington|11th|
 |Valentina Flores|Middle Country|10th|
 |Zen Ho Sang|Central Islip|11th|
-|Dorian Jimenez|Central Islip|12th|
 |Elijah Johnson|Copiague|12th|
 |Jason Lazo|Central Islip|11th|
 |Jennifer Martinez|Diocese of Rockville Centre|12th|

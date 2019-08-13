@@ -58,15 +58,17 @@ show_sidebar: false
 <div style="padding: 50px; clear=both">
   <div>
     <h2>Paul Lichtman</h2>
-    <p style="float: left;"><img src="https://visualhunt.com/photos/2/cat-hangover-red-cute-mackerel-tiger-sweet.jpg?s=s" height="300px" width="250px" border="1px" hspace="20">
+    <p style="float: left;"><img src="../img/paul.png" height="300px" width="250px" border="1px" hspace="20">
     </p>
   </div>
   <div>
   <p>
-  Dr. Paul Lichtman obtained his Ph.D. in Pharmacology from the Broader College of Pharmacy in Belize and also holds as J.D. in Juvenile Advocacy and Bachelor of Arts in Pharmacy. He currently works as the Science Research Coordinator at Adelphi University, and has more than 20 years’ experience working in New York School districts as a Certified teacher in Biology and General Science. Paul has developed science research programs at Hillcrest High School in Jamaica, NY, as well as in Massapequa and Uniondale High Schools. He has educated and mentored countless students with many wining prestigious state, national, and international awards in the sciences. Paul has been recognized as a Teacher of Merit by the Intel Foundation ten years in a row and awarded Teacher of the Year by the Siemens Foundation.
+  Dr. Paul Lichtman obtained his PharmD from the Broadmor College of Pharmacy in Belize and also holds as J.D. in Juvenile Advocacy and Bachelor of Arts in Pharmacy. He currently works as the Science Research Coordinator at Adelphi University, and has more than 20 years’ experience working in New York School districts as a Certified teacher in Biology and General Science. Paul has developed science research programs at Hillcrest High School in Jamaica, NY, as well as in Massapequa and Uniondale High Schools. He has educated and mentored countless students with many wining prestigious state, national, and international awards in the sciences. Paul has been recognized as a Teacher of Merit by the Intel Foundation ten years in a row and awarded Teacher of the Year by the Siemens Foundation.
   </p>
   </div>
 </div>
+
+<br>
 
 ----
 
@@ -85,16 +87,17 @@ flyers, and anyone else who helped behind the scenes.
 us to hold this first year of the STARS program without any external funding
 for supplies and staff time. He originally conceived of the idea of holding
 a dedicated DNALC camp that would serve to support underrepresented students in
-STEM and embraced the opportunity to collaborate with Professor Carter and her colleagues at Stony Brook U, who were seeking a setting for such an initiative.
+STEM and embraced the opportunity to collaborate with Professor Carter and her colleagues at Stony Brook University, who were seeking a setting for such an initiative.
 
 ## Beatrice Toliver
-
+**Chairperson**, NAACP Long Island ACT-SO (Afro-Academic, Cultural, Technological and Scientific Olympics) Program
 ## Jennie Williams
-
+**Professor**, Stony Brook University School of Medicine; Director, Inducer (Increasing Diversity in Undergraduate Cancer Biology Education and Research) Program
 ## Judith Berhannan
-
+**Dean of Admissions**, Stony Brook University
 ## Kamazima Lwiza
-
+**Professor**, Stony Brook University School of Marine & Atmospheric Sciences
 ## Michael Lake
-
+**Academic Research Director**, Half Hollow Hills School District, Suffolk County
 ## Robert Hoyte
+**Distinguished Teaching Professor**, SUNY Old Westbury

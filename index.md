@@ -228,12 +228,12 @@ camp.
 
 **Important Links**
 
-   **See more details and saftey reminders**: [2019 Camp Reminders](/camp-reminders/)
+   **See more details and safety reminders**: [2019 Camp Reminders](/camp-reminders/)
 
 - [Cold Spring Harbor Laboratory DNA Learning Center](https://www.dnalc.org/)
 - [CSHL Main Campus Map](https://www.cshl.edu/wp-content/uploads/2017/07/CampusMap_updated.pdf)
   - **Note**: Important week-one camp locations include
-  - Bush Lecuture Hall: AM and PM pickup during week one (Building 12 on map)
+  - Grace Auditorium: AM (by 9:30) and PM (by 4:00pm) pickup during week one (Building 12 on map)
   - Delbrück: Lab/Conference Room (Building 17 on map)
   - Hershey: Conference Room (Building 14 on map)
 

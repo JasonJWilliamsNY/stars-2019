@@ -6,7 +6,7 @@ show_sidebar: false
 
 # Safety reminders
 
-Your child's saftey is our first concern. Please go over the following reminders
+Your child's safety is our first concern. Please go over the following reminders
 with your child.
 
 1. All students are required to be supervised at all times by either
@@ -24,7 +24,7 @@ behavior will be dismissed from further participation in the course, and parents
 will be asked to pick up their child as soon as possible.
 
 4. To maintain a safe environment in the laboratory, students should avoid open-toed
-shoes (sandles). Shorts are permissable, but should not be overly short. We will
+shoes (sandals). Shorts are permissible, but should not be overly short. We will
 not be working with dangerous laboratory equipment or chemicals, but we are preparing
 students for future work where laboratory dress code and protective equipment
 will be required (See [OSHA standards](https://www.osha.gov/Publications/laboratory/OSHA3404laboratory-safety-guidance.pdf) - or, a good short summary of common
@@ -58,7 +58,7 @@ On the second week (August 26-30), campers will be dropped of at **DNALC CAMPUS*
 
   ### Week One (August 19-23)
 
-  **Drop off/Pickup location**: Bush lecture hall, CSHL Main Campus - 1
+  **Drop off/Pickup location**: Grace Auditorium (The first building on your left when turning in to Bungtown Rd., building 12 on [CSHL Map](https://www.cshl.edu/wp-content/uploads/2017/07/CampusMap_updated.pdf)), CSHL Main Campus - 1
   Bungtown Rd. Cold Spring Harbor, NY, 11724
 
   **Drop off/Pickup time**:
@@ -77,15 +77,16 @@ On the second week (August 26-30), campers will be dropped of at **DNALC CAMPUS*
 
 # Lunch
 
-All students are expected to bring lunch/snacks with them. Refigeration/coolers
-will be provided to store items requiring temprature control. Please make the
-instructors aware of any food alergies.
+All students are expected to bring lunch/snacks with them. Refrigeration/coolers
+will be provided to store items requiring temperature control. Please make the
+instructors aware of any food allergies.
+
 
 
 # Photos
 
 All accepted students have consented to photos which DNALC staff may take during
-the camp for future promtion of DNALC camps, workshops, or educational activities.
+the camp for future promotion of DNALC camps, workshops, or educational activities.
 Students may take photos of activities during their camp. Photos taken of other
 campers should be done only with permission, and must not be used or posted in
 any way which causes offense.
@@ -94,7 +95,7 @@ any way which causes offense.
 
 Please notify instructors of any medical concerns regarding your child. We will
 also be verifying emergency contact information on the first day of camp and/or
-at the camp orientation. Please be aware of the folliwng numbers:
+at the camp orientation. Please be aware of the following numbers:
 
 - 911 (Only for emergency use)
 - 5555: This is the CSHL security phone number and can be dialed from any on-campus phone
