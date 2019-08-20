@@ -81,7 +81,7 @@ camp.
      <td>Hershey East Conf. (Main Campus)</td>
      <td>Williams, Carter</td>
      <td><ul><li>Lunch with DIAS graduate students</li><li>Scientific method - What is a hypothesis?</li><li><b>Exercise</b>: Literature Searches</li><li>Scientific method - Reading a scientific paper</li></ul></td>
-     <td>Link</td>
+     <td><ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/camp-materials/bacterial-transformation.pdf">Bacterial Transformation</a></li><li><a href="https://jasonjwilliamsny.github.io/stars-2019/camp-materials/rna-splicing.pdf">RNA Splicing paper</a></li><li><a href="https://jasonjwilliamsny.github.io/stars-2019/camp-materials/howtoread-aaas.pdf">How to read a scientific article AAAS</a></li><li><a href="https://jasonjwilliamsny.github.io/stars-2019/camp-materials/how-to-read-cainproject.pdf">How to read a paper - Cain project</a></li></ul></td>
      </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Wednesday 8/21</th>
