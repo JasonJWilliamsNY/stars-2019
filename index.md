@@ -89,7 +89,7 @@ camp.
      <td>Delbrück Lab (Main Campus)</td>
      <td>Williams, Carter, Johnson D</td>
      <td><ul><li><b>Lab</b>: DNA Barcoding Laboratory I</li></ul></td>
-     <td><ul><li><a href="https://www.dnabarcoding101.org/">DNA Barcoding website</a></li><li><a href="https://www.dnabarcoding101.org/lab/protocol-2.html">DNA Isolation protocol</a></li></ul</td>
+     <td><ul><li><a href="https://www.dnabarcoding101.org/">DNA Barcoding website</a></li><li><a href="https://www.dnabarcoding101.org/lab/protocol-2.html">DNA Isolation protocol</a></li></ul></td>
    </tr>
    <tr>
      <td>PM</td>
@@ -103,7 +103,7 @@ camp.
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Thursday 8/22</th>
      <td>AM</td>
-     <td>Stony Brook field Trip <b>(9AM Pickup Grace Auditorium)</b></td>
+     <td>Stony Brook field Trip <b>(8:45AM Pickup Grace Auditorium)</b></td>
      <td>Williams, (Carter at SBU)</td>
      <td><ul><b>Stony Brook Field Trip</b></ul></td>
      <td>Link</td>
