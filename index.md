@@ -97,7 +97,7 @@ camp.
      <td>Williams, Carter</td>
      <td><ul><li><b>Lunch
      Speaker</b>: Lloyd Trotman</li><li><b>Lab (cont'd)</b>: DNA Barcoding Laboratory I</li><li>Tour
-     of CSHL</li><li>Graduate Student Talk</li></ul></td>
+     of CSHL</li></ul></td>
      <td>Link</td>
    </tr>
    <tr>
