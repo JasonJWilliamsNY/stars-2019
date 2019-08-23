@@ -106,7 +106,7 @@ camp.
      <td>Stony Brook field Trip <b>(8:45AM Pickup Grace Auditorium)</b></td>
      <td>Williams, (Carter at SBU)</td>
      <td><ul><b>Stony Brook Field Trip</b></ul></td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
      <td>PM</td>
@@ -127,7 +127,7 @@ camp.
      <td>PM</td>
      <td>Delbrück Lab (Main Campus)</td>
      <td>Williams,  Carter,  Lichtman</td>
-     <td><ul><b>Lab</b>: DNA Barcoding Laboratory II<li><b>Exercise</b>: Scientific method
+     <td><ul><li><b>Lunch speaker</b>: Dr. Alea Mills</li><li><b>Lab</b>: DNA Barcoding Laboratory II</li><li><b>Exercise</b>: Scientific method
      - Writing a research proposal</li></ul></td>
      <td><ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/camp-materials/Arsenic-Accumulation.pdf">Arsenic accumulation paper</a></li></ul></td>
    </tr>
