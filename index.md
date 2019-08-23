@@ -98,7 +98,7 @@ camp.
      <td><ul><li><b>Lunch
      Speaker</b>: Lloyd Trotman</li><li><b>Lab (cont'd)</b>: DNA Barcoding Laboratory I</li><li>Tour
      of CSHL</li></ul></td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Thursday 8/22</th>
@@ -113,15 +113,15 @@ camp.
      <td>Stony Brook Field Trip <b>(6PM Arrive at Grace Auditorium for parent pickup)</b></td>
      <td>Williams, (Carter at SBU)</td>
      <td><ul><b>Stony Brook field Trip</b></ul></td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Friday 8/23</th>
      <td>AM</td>
      <td>Delbrück Lab (Main Campus)</td>
      <td>Williams, Johnson D</td>
-     <td><ul><li><b>Lab</b>: DNA Barcoding Laboratory II</li></ul></td>
-     <td>Link</td>
+     <td><ul><li><b>Lab</b>: DNA Barcoding Laboratory II/MT Lab</li></ul></td>
+     <td><ul><li><a href="http://www.geneticorigins.org/mito/laboratory.html">Human mitochondrial DNA lab</a></li></ul></td>
    </tr>
    <tr>
      <td>PM</td>
@@ -129,7 +129,7 @@ camp.
      <td>Williams,  Carter,  Lichtman</td>
      <td><ul><b>Lab</b>: DNA Barcoding Laboratory II<li><b>Exercise</b>: Scientific method
      - Writing a research proposal</li></ul></td>
-     <td>Link</td>
+     <td><ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/camp-materials/Arsenic-Accumulation.pdf">Arsenic accumulation paper</a></li></ul></td>
    </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Monday 8/26</th>
