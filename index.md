@@ -138,7 +138,7 @@ camp.
      <td>Williams, Johnson D</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Bioinformatics</li></ul></td>
-     <td><ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/2019-computer-setup">Computer Setup Instructions</a></li><li><a href="http://128.196.142.91:8000">JupyterHub</a></li></li><li><a href="http://128.196.142.91:9001/p/stars-biocoding">Etherpad</a></li></ul></td>
+     <td><ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/2019-computer-setup">Computer Setup Instructions</a></li><li><a href="http://128.196.142.91:8000">JupyterHub</a></li><li><a href="http://128.196.142.91:9001/p/stars-biocoding">Etherpad</a></li></ul></td>
    </tr>
    <tr>
      <td>PM</td>
