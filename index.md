@@ -210,7 +210,7 @@ camp.
      <td> Computer Lab (DNALC Campus)</td>
      <td>Williams, Carter</td>
      <td><ul><li>Team Project Work</li></ul></td>
-     <td>ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/2019-computer-setup/#Learning-more-after-the-class">Learning more bioinformatics after the class</a></li></ul></td>
+     <td><ul><li><a href="https://jasonjwilliamsny.github.io/stars-2019/2019-computer-setup/#Learning-more-after-the-class">Learning more bioinformatics after the class</a></li></ul></td>
    </tr>
    <tr>
      <td>PM</td>
