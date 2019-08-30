@@ -147,7 +147,7 @@ camp.
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li>Career and learning skills discussion: Finding help</li></ul>
      </td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Tuesday 8/27</th>
@@ -156,7 +156,7 @@ camp.
      <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li></ul></td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
      <td>PM</td>
@@ -166,7 +166,7 @@ camp.
      Python<li>Career and learning skills discussion: Summer Research
      Resources</li></ul>
      </td>
-     <td>Link</td>
+     <td></td>
      </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Wednesday 8/28</th>
@@ -177,7 +177,7 @@ camp.
      Python</li><li><b>Lunch
      Speaker</b>: Camila Dos Santos</li></ul>
      </td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
      <td>PM</td>
@@ -186,7 +186,7 @@ camp.
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li>Final Project Planning</li></ul>
      </td>
-     <td>Link</td>
+     <td></td>
    </tr>
    <tr>
     <th rowspan="2" bgcolor="#098DAF">Thursday 8/29</th>
@@ -195,14 +195,14 @@ camp.
      <td>Williams, Carter</td>
      <td><ul><li><b>Computer Lab</b>: Biocoding - Intro to
      Python</li><li>Final Project Planning</li></ul>
-     </td><td>Link</td>
+     </td><td></td>
    </tr>
    <tr>
      <td>PM</td>
      <td> Computer Lab (DNALC Campus)</td>
      <td>Williams, Carter</td>
      <td><ul><li>Team Project Work</li></ul></td>
-     <td>Link</td>
+     <td></td>
    </tr>
     <tr>
     <th rowspan="2" bgcolor="#098DAF">Friday 8/30</th>
